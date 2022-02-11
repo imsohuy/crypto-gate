@@ -8,7 +8,7 @@ import {
   FundOutlined,
   MenuOutlined,
 } from "@ant-design/icons";
-import icon from "../images/eth.png";
+import icon from "../images/binance.png";
 
 function Navbar() {
   return (
@@ -16,7 +16,7 @@ function Navbar() {
       <div className="logo-container">
         <Avatar src={icon} size="large" />
         <Typography.Title level={2} className="logo">
-          <Link to="/">Cryptoverse</Link>
+          <Link to="/">CryptoGate</Link>
         </Typography.Title>
         <Button className="menu-control-container">
           <MenuOutlined />
