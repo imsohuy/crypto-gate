@@ -39,7 +39,7 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Cryptoverse <br />
+            CryptoGate <br />
             All right reserverd
           </Typography.Title>
           <Space>
